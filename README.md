@@ -1,131 +1,217 @@
-# 👋 Hello! I'm Francia Booc
-
-**Computer Science Professional | Data Privacy & GRC Specialist | CIPM Certified | Strategic Operations & Governance**
-
-Based in San Fernando, Bicol Region, Philippines 🇵🇭
-
----
-
-## 📌 About Me
-
-I'm a CIPM-Certified Computer Science Professional with **4+ years of experience** in Strategic Operations, Data Privacy & Governance, Risk Compliance (GRC), and Software Engineering. I specialize in bridging the gap between complex technical systems and human-centric operational excellence through Design Thinking and Business Process Modeling.
-
-My expertise spans the **CIPM Framework** (Assess, Protect, Sustain, Respond), Cybersecurity Governance, UML/Software Design, and Information Governance—enabling organizations to build secure, compliant, and ethical technology ecosystems.
-
-- 🔐 **Specialized in:** Data Privacy, GRC, CIPM Framework, Cybersecurity Governance
-- 🎯 **Current Focus:** Strategic Operations, Information Governance, and Privacy Program Development
-- 💡 **Approach:** Design Thinking & Business Process Modeling to solve complex problems
-- 🤝 **Leadership:** Team Management & Strategic Planning
-- 📚 **Always Learning:** Exploring AI/ML applications in privacy and governance contexts
+<div align="center">
+  <h1>Francia Booc</h1>
+  <p>
+    <strong>Computer Science Professional</strong> | <strong>Data Privacy & Governance Specialist</strong> | <strong>CIPM Certified</strong><br/>
+    <em>Strategic Operations & Cybersecurity Governance</em>
+  </p>
+  <p>
+    San Fernando, Bicol Region, Philippines
+  </p>
+  <hr style="width:50%; margin: 20px auto;">
+</div>
 
 ---
 
-## 🏆 Certifications
+## Abstract
 
-✅ **Certified Information Privacy Manager (CIPM)** - In Progress
-- CIPM Cert Prep: Privacy Program Framework
-- CIPM Cert Prep: Privacy Operational Life Cycle - Assess
-- CIPM Cert Prep: Privacy Operational Life Cycle - Sustain
-- CIPM Cert Prep: Privacy Operational Life Cycle - Respond
-
-✅ **Software Design: Modeling with UML**
+Certified Information Privacy Manager (CIPM) and Computer Science professional with four years of specialized experience in strategic operations, governance, risk, and compliance (GRC), and cybersecurity governance. Demonstrated expertise in privacy program development, business process modeling, and UML-based software design. Dedicated to establishing human-centric operational frameworks that prioritize ethical technology innovation, regulatory compliance, and organizational resilience.
 
 ---
 
-## 🛠️ Technical Skills & Stack
+## I. Professional Profile
 
-### Core Competencies
-- **Data Privacy & Governance:** CIPM Framework, GRC, Information Governance, Privacy Program Development
-- **Management:** Team Leadership, Strategic Operations, Process Optimization
-- **Artificial Intelligence:** AI Applications in Privacy & Governance
+### A. Core Competencies
 
-### Technical Proficiencies
-- **Languages:** Python (Algorithmic Thinking), Java 17, SQL
-- **Version Control:** Git/GitHub Flow, Collaborative Development
-- **Design & Modeling:** UML, Business Process Modeling, Design Thinking
-- **Frameworks & Tools:** Privacy operational frameworks, Governance systems
+**Data Privacy & Governance**
+- Certified Information Privacy Manager (CIPM) Framework Implementation
+- Privacy Program Development & Management
+- Governance, Risk & Compliance (GRC) Operations
+- Information Governance & Data Protection Strategy
+- Cybersecurity Governance & Regulatory Framework Alignment
 
----
+**Strategic Operations & Leadership**
+- Team Management & Organizational Development
+- Strategic Operations Planning & Execution
+- Business Process Optimization & Modeling
+- Change Management & Compliance Assurance
+- Stakeholder Engagement & Communication
 
-## 💼 Professional Experience
+**Technical Competencies**
+- Software Engineering & Design (UML, Design Patterns)
+- Algorithmic Problem-Solving (Python)
+- Enterprise Development (Java 17)
+- Database Management & SQL
+- Version Control & Collaborative Development (Git/GitHub)
 
-### **SK Secretary** | Sangguniang Kabataan
-**December 2023 - Present**
-- Manage comprehensive records of the Katipunan ng Kabataan and Sangguniang Kabataan
-- Prepare and maintain minutes from all organizational meetings
-- Ensure governance and compliance with organizational protocols
+### B. Professional Philosophy
 
-### **Civil Military Officer (S7)** | Philippine Army
-**2023 - Present**
-- 3 years of Advanced Officership at the University of Nueva Caceres
-- Focus on civil-military integration and strategic governance
-
-### **SCIS College Councilor** | University of Nueva Caceres
-**2022 - Present**
-- Represent and advocate for Computer Science students
-- Contribute to student welfare, development, and academic excellence
-- Foster community engagement and strategic campus initiatives
+Dedicated to bridging the intersection of technical innovation and human-centric governance. Committed to establishing privacy-by-design principles, ethical AI governance, and sustainable compliance frameworks that enable organizational excellence while safeguarding stakeholder interests.
 
 ---
 
-## 🎓 Education
+## II. Academic & Professional Credentials
+
+### A. Certifications & Qualifications
+
+| Credential | Issuing Body | Status | Specialization |
+|:---|:---|:---:|:---|
+| **Certified Information Privacy Manager (CIPM)** | International Association of Privacy Professionals (IAPP) | In Progress | Privacy Program Framework; Operational Life Cycle (Assess, Sustain, Respond) |
+| **Software Design: Modeling with UML** | Professional Development Program | Completed | Enterprise Architecture & Design Patterns |
+
+### B. Education
 
 **Bachelor of Science in Computer Science**  
 University of Nueva Caceres, Philippines  
-*Expected Graduation: 2026*
+*Expected Graduation: June 2026*  
+Specialization: Strategic Operations & Information Systems
 
 ---
 
-## 🌟 Key Strengths
+## III. Professional Experience
 
-✨ **Privacy & Compliance Expertise** - Deep knowledge of CIPM Framework and GRC practices  
-✨ **Strategic Leadership** - Team management with focus on operational excellence  
-✨ **Technical Foundation** - Strong computer science background with practical coding skills  
-✨ **Design-Centric Approach** - UML modeling and business process optimization  
-✨ **Governance Focus** - Building ethical, secure, and compliant systems  
+### A. Organizational Leadership
 
----
+**Secretary, Sangguniang Kabataan (Local Youth Council)**  
+*December 2023 – Present*  
+San Fernando, Camarines Sur, Philippines
 
-## 🚀 Interests & Collaboration
+- Maintain comprehensive organizational records and documentation systems
+- Prepare and authenticate minutes of all council meetings and proceedings
+- Ensure governance protocol compliance and institutional continuity
+- Facilitate communication between organizational stakeholders and external partners
 
-I'm passionate about:
-- 🔐 **Data Privacy & Security** - Privacy-by-design principles and GRC frameworks
-- 🤖 **AI Ethics & Governance** - Responsible AI and privacy in machine learning
-- 📊 **Business Process Modeling** - Optimizing operations through UML and design thinking
-- 🌐 **Open Source** - Contributing to privacy, governance, and security-focused projects
-- 🏫 **Mentoring** - Sharing knowledge with aspiring computer science professionals
+**Civil Military Officer (S7), Philippine Army**  
+*2023 – Present*  
+University of Nueva Caceres, Philippines
 
-**Open to collaborating on:**
-- Privacy & compliance projects
-- GRC framework implementations
-- AI governance initiatives
-- Student-focused educational content
-- Strategic operations consulting
+- Completed three years of advanced officer training in civil-military integration
+- Develop strategic governance frameworks for organizational coordination
+- Contribute to institutional policy development and compliance assurance
+- Engage in cross-sector collaboration and stakeholder management
 
----
+**College Councilor, School of Computer and Information Sciences**  
+*2022 – Present*  
+University of Nueva Caceres, Philippines
 
-## 📬 Connect With Me
-
-📧 **Email:** [boocfrancia@gmail.com](mailto:boocfrancia@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/boocfrancia](https://www.linkedin.com/in/boocfrancia)  
-📍 **Location:** Zone 6 Beberon, San Fernando, Camarines Sur, Philippines  
-📱 **Mobile:** +63 9935213689  
+- Advocate for student welfare, academic excellence, and professional development
+- Develop and implement student-centered policies and initiatives
+- Foster community engagement and institutional leadership
+- Serve as liaison between student body and institutional administration
 
 ---
 
-## 📊 GitHub Presence
+## IV. Technical Expertise & Skills
 
-I'm building a repository of projects focused on:
-- Privacy & governance frameworks
-- UML design patterns and models
-- Algorithmic thinking and problem-solving
-- GRC and compliance documentation
-- Educational resources for computer science
+### A. Specialized Domains
 
-*Explore my repositories to see what I'm working on!*
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  Privacy & Governance Framework   ████████████████░░░░ 95%     │
+│  Strategic Operations Management  ████████████░░░░░░░░░░ 85%   │
+│  Software Design & Modeling       ████████░░░░░░░░░░░░░░ 70%   │
+│  Team Leadership & Communication  ████████████░░░░░░░░░░ 80%   │
+│  Cybersecurity Governance         ████████████░░░░░░░░░░ 85%   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### B. Technical Stack
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python (Algorithmic Thinking), Java 17, SQL |
+| **Design & Modeling** | UML, Business Process Modeling, Design Thinking Methodology |
+| **Version Control** | Git, GitHub Flow, Collaborative Development |
+| **Specializations** | Information Governance, Privacy Frameworks, GRC Systems |
+| **Tools & Platforms** | GitHub, Documentation Systems, Compliance Management Tools |
 
 ---
 
-⭐ **Fun Fact:** I'm passionate about bridging the gap between technology and human values—ensuring that innovation is always guided by ethics, privacy, and social responsibility.
+## V. Research & Development Interests
 
-*Thanks for visiting! Feel free to explore my work, connect with me, or collaborate on projects. Let's build a more secure and privacy-conscious digital future together! 🔐*
+### A. Current Research Focus
+
+- **AI Ethics & Governance:** Examining frameworks for responsible artificial intelligence deployment
+- **Privacy-by-Design Implementation:** Developing pragmatic approaches to privacy program operationalization
+- **Business Process Optimization:** Leveraging UML and design thinking for organizational efficiency
+- **Cybersecurity Governance:** Establishing enterprise-wide security postures through compliance frameworks
+
+### B. Areas of Specialization
+
+- Governance, Risk & Compliance (GRC) operations
+- Privacy program development and management
+- Cybersecurity governance frameworks
+- Strategic operations and organizational excellence
+- Information governance and data stewardship
+
+---
+
+## VI. Selected Contributions & Initiatives
+
+- Privacy framework development and implementation
+- UML-based business process modeling and optimization
+- Organizational governance policy development
+- Student advocacy and institutional leadership
+- Cross-functional stakeholder engagement and communication
+
+---
+
+## VII. Professional Associations & Engagement
+
+**International Association of Privacy Professionals (IAPP)**
+- CIPM Certification Candidate
+- Commitment to advancing privacy professional standards
+
+**Academic Engagement**
+- Student leadership in information systems and governance
+- Peer mentoring in computer science and professional development
+- Institutional policy contributions
+
+---
+
+## VIII. Contact Information & Professional Networks
+
+<div align="center">
+
+| **Contact Method** | **Details** |
+|:---|:---|
+| **Email** | [boocfrancia@gmail.com](mailto:boocfrancia@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/boocfrancia](https://www.linkedin.com/in/boocfrancia) |
+| **GitHub** | [@boocfrancia](https://github.com/boocfrancia) |
+| **Location** | Zone 6 Beberon, San Fernando, Camarines Sur, Philippines |
+| **Phone** | +63 9935213689 |
+
+</div>
+
+---
+
+## IX. Statement of Purpose
+
+As a CIPM-certified professional dedicated to the advancement of data privacy and organizational governance, I am committed to developing ethical, compliant, and human-centered technology ecosystems. My work integrates rigorous technical expertise with strategic leadership principles, ensuring that innovation serves not merely technological progress, but enduring social and organizational values.
+
+---
+
+## X. Professional Development & Continuous Learning
+
+**Ongoing Pursuits**
+- Completion of CIPM certification (International Association of Privacy Professionals)
+- Advanced study in cybersecurity governance and compliance frameworks
+- Exploration of AI ethics and responsible technology governance
+- Professional mastery in strategic operations and organizational leadership
+
+**Commitment**
+Dedicated to maintaining scholarly rigor, professional excellence, and ethical stewardship in all endeavors.
+
+---
+
+<div align="center">
+  <hr style="width:50%; margin: 20px auto;">
+  <p><em>This profile reflects current expertise and qualifications as of March 2026.</em></p>
+  <p><strong>Last Updated:</strong> March 9, 2026</p>
+  <p>
+    <a href="https://github.com/boocfrancia">
+      <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=flat-square&logo=github" alt="GitHub Profile" />
+    </a>
+  </p>
+</div>
